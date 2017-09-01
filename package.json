@@ -1,0 +1,14 @@
+{
+  "name": "note-node",
+  "version": "1.0.0",
+  "description": "Notes app for command line usin yargs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danny Suarez",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^8.0.2"
+  }
+}
